@@ -1,0 +1,28 @@
+.section1{
+    background-image: url("./Media/bg-1.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 50px 0;
+    color: white;
+}
+
+.img-arcade{
+    max-width: 20wh;
+}
+
+.calendario{
+    color: yellow;
+}
+
+.btn{
+    color: yellow;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 10px 30px;
+}
+
+.btn:hover{
+    background-color: yellow;
+    border-color: yellow;
+}
